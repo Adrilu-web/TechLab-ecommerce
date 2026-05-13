@@ -14,7 +14,8 @@ src/com/techlab/ecommerce/
  ├── Producto.java
  ├── ProductoService.java
  └── Main.java
-🚀 Ejecución
+
+Ejecución
 Clonar el repositorio
 
 Código
